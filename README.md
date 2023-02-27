@@ -3,7 +3,7 @@
 
 - 🔭 I’m in the team named **AlphaMech_**
 
-- 🌱 I’m currently learning **'Intelligent Information Technology' (SQLite, PowerQuerry)**
+- 🌱 I’m currently learned **'Intelligent Information Technology' (SQLite, PowerQuerry)**
 
 - 📫 How to reach me **lky473736@icloud.com**
 
