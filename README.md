@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyuyoun Lim</h1>
+<h1 align="center">Hello, World! I'm Kyuyoun Lim</h1>
 <h3 align="center">A Student Studying at Dept of Computer Engineering at Gachon University</h3>
 
 - 🔭 I’m in the team named **AlphaMech_**
