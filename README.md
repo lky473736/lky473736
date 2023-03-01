@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! I'm Kyuyoun</h1>
-<h3 align="center">A Student Who Studied at Dept of Computer Engineering at Gachon University</h3>
+<h3 align="center">A Student Who is Studying at Dept of Computer Engineering at Gachon University</h3>
 
 - 🔭 I’m in the team named **AlphaMech_**
 
