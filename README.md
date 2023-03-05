@@ -1,9 +1,9 @@
-<h1 align="center">Hello, World! I'm Kyuyoun</h1>
-<h3 align="center">A Student Who is Studying at Dept of Computer Engineering at Gachon University</h3>
+<h1 align="center">Hello, World! I'm Gyuyoun</h1>
+<h3 align="center">A Student Who is Studying at Dept of Computer Engineering at Gachon University, Grade 1</h3>
 
 - 🔭 I’m in the team named **AlphaMech_**
 
-- 🌱 I’m currently learning **'Intelligent Information Technology' (SQLite, PowerQuerry)**
+- 🌱 I currently learned **'Intelligent Information Technology' (SQLite, PowerQuerry)**
 
 - 📫 How to reach me **lky473736@icloud.com**
 
