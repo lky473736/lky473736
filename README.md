@@ -1,12 +1,12 @@
 ### Gyuyeon Lim
 
 - **Undergraduate Research Intern**
-  - 2025.02. ~ 2025.06. : Joint Research Laboratory of Seoul National University Hospital & Gachon University
-     - SNUH BMI-LAB : Affiliated with the ECG Holter Foundation Model and MLOps Development Team
+  - **2025.02. ~ 2025.06.** : Joint Research Laboratory of Seoul National University Hospital & Gachon University
+     - <a href="https://sites.google.com/view/snuh-bmi-lab/home?authuser=0">SNUH BMI-LAB</a> : Affiliated with the ECG Holter Foundation Model and MLOps Development Team
   - **Now non-affiliated (finding other labs)**
 - **Publications**
-  - (IN PROGRESS ABOUT ZSL ON HUMAN ACTIVITY RECOGNITION NOW)
-  - (IN PROGRESS ABOUT ACTION BASED FEATURE AUGMENTATION IN MODEL NOW)
+  - **(under review)** Activity-Based Feature Augmentation with Multi-Kernel Temporal Convolution and Transformer for Human Activity Recognition
+  - **(under review)** Contrastive Learning From Labeled Simple Activities for Zero-Shot Recognition of Complex Human Actions on Wearable Devices
 - **Research interests** : Artificial Intelligence, AI for Signal Data, Time-Series Self-Supervised Learning, and Human Activity Recognition
 
 ---
