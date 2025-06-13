@@ -1,8 +1,9 @@
 ### Gyuyeon Lim
 
 - **Undergraduate Research Intern**
-  - 2025.02. ~ Current : Joint Research Laboratory of Seoul National University Hospital & Gachon University
-     - Affiliated with the ECG Holter Foundation Model and Pipeline Development Team
+  - 2025.02. ~ 2025.06. : Joint Research Laboratory of Seoul National University Hospital & Gachon University
+     - Affiliated with the ECG Holter Foundation Model and MLOps Development Team
+  - **Now non-affiliated (finding other labs)**
 - **Publications**
   - (IN PROGRESS ABOUT ZSL ON HUMAN ACTIVITY RECOGNITION NOW)
   - (IN PROGRESS ABOUT ACTION BASED FEATURE AUGMENTATION IN MODEL NOW)
