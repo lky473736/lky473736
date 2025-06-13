@@ -2,7 +2,7 @@
 
 - **Undergraduate Research Intern**
   - 2025.02. ~ 2025.06. : Joint Research Laboratory of Seoul National University Hospital & Gachon University
-     - Affiliated with the ECG Holter Foundation Model and MLOps Development Team
+     - SNUH BMI-LAB : Affiliated with the ECG Holter Foundation Model and MLOps Development Team
   - **Now non-affiliated (finding other labs)**
 - **Publications**
   - (IN PROGRESS ABOUT ZSL ON HUMAN ACTIVITY RECOGNITION NOW)
