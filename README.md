@@ -19,6 +19,7 @@ print ("Contact for project collaboration and else : lky473736@gmail.com", end =
 links = {
         "email" : "lky473736@gmail.com",
         "homepage" : "https://lky473736.github.io/",
-        "database about research" : "https://url.kr/vssur2"
+        "database about research" : "https://url.kr/vssur2",
+        "linkedin" : "https://www.linkedin.com/in/gyuyeon-lim-a24016278/"
 }
 ```
