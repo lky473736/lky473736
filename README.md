@@ -20,6 +20,8 @@ links = {
         "email" : "lky473736@gmail.com",
         "homepage" : "https://lky473736.github.io/",
         "database about research" : "https://url.kr/vssur2",
-        "linkedin" : "https://www.linkedin.com/in/gyuyeon-lim-a24016278/"
+        "linkedin" : "https://www.linkedin.com/in/gyuyeon-lim-a24016278/",
+        "ORCID" : "https://orcid.org/0009-0005-7672-9812",
+        "Google Scholar" : "https://scholar.google.com/citations?user=S6SqhsoAAAAJ"
 }
 ```
