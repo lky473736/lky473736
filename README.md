@@ -9,7 +9,8 @@
   - **(Accepted at 2025.09.19)** Gyuyeon Lim and Myung-Kyu Yi, <a href="https://doi.org/10.1109/JSEN.2025.3613260">Contrastive Learning for Zero-Shot Human Activity Recognition Using Labeled Simple Actions on Wearable Devices</a>, IEEE Sensors Journal (IF 4.5, CiteScore 8.2), 2025. (Source Code is Here : <a href="https://github.com/lky473736/ZSL-HAR">ZSL-HAR</a>)
   - **(Revision)** Gyuyeon Lim and Myung-Kyu Yi, Activity-Based Feature Augmentation with Multi-Kernel Temporal Convolution and Transformer for Human Activity Recognition (Source Code is Here : <a href="https://github.com/lky473736/ABFA-HAR">ABFA-HAR</a>)
   - **(Under Review)** Gyuyeon Lim and Myung-Kyu Yi, Context-Aware Prototype-Guided State-Space Model for Efficient Wearable Human Activity Recognition in IoT Devices (Source Code is Here : <a href="https://github.com/lky473736/CAP-SSM">CAP-SSM</a>)
-  - **(Under Review)** double-blind peer-reviewed paper (self-supervised learning)
+  - **(Under Review)** Gyuyeon Lim and Myung-Kyu Yi, Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition (Source Code is Here : <a href="https://github.com/lky473736/P2-Perceiver/blob/main/">P2-Percever</a>)
+  - **(Under Review)** Gyuyeon Lim and Myung-Kyu Yi, Geometric and Rotation-Aware Self-Supervised Learning for Human Activity Recognition via Inception-Style Multi-Kernel Convolutions (Source Code is Here : <a href="https://github.com/lky473736/InceptionMK">InceptionMK</a>)
 - **Research interests** : Artificial Intelligence, AI for Signal Data, Time-Series Self-Supervised Learning, Data Embedding Space and Human Activity Recognition
 
 ---
