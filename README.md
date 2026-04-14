@@ -12,6 +12,7 @@
   - (Accepted at 2026.02.06) **Gyuyeon Lim** and Myung-Kyu Yi, <a href="https://doi.org/10.1109/JSEN.2026.3663003">CAP-SSM: Context-Aware Prototypes and Selective State-Space Modeling for Efficient Wearable Human Activity Recognition</a>, IEEE Sensors Journal (IF 4.5, CiteScore 8.2), 2026. (Source Code is Here : <a href="https://github.com/lky473736/CAP-SSM">CAP-SSM</a>)
   - (Accepted at 2026.03.10) **Gyuyeon Lim** and Myung-Kyu Yi, <a href="https://doi.org/10.1109/JSEN.2026.3673698">Robust Sensor-Based Activity Recognition via Physics-Aware Disentangled Representation Learning and Feature-wise Linear Modulation Conditioning</a>, IEEE Sensors Journal (IF 4.5, CiteScore 8.2), 2026. (Source Code is Here : <a href="https://github.com/lky473736/PADR">PADR</a>)
   - (Accepted at 2026.03.25) JunYoung Park, **Gyuyeon Lim**, and Myung-Kyu Yi, <a href="https://doi.org/10.1109/JSEN.2026.3675557">Dynamics-Aware Action State Flow for Wearable Human Activity Recognition</a>, IEEE Sensors Journal (IF 4.5, CiteScore 8.2), 2026. (Second Author)
+  - (Accepted at 2026.04.09) **Gyuyeon Lim** and Myung-Kyu Yi, <a href="https://doi.org/10.1109/TCE.2026.3682243">Rotation-Robust Self-Supervised Learning for IMU-Based HAR with Multi-Scale Convolutional Backbones</a>, IEEE Transactions on Consumer Electronics (IF 10.9, CiteScore 5.5), 2026. (Source Code is Here : <a href="https://github.com/lky473736/InceptionMK">InceptionMK</a>)
 - **Research interests** : Artificial Intelligence, Time-series, Representation Learning and Human Activity Recognition
 
 ---
