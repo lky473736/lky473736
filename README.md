@@ -1,2 +1,2 @@
-- Curriculum vitae : https://github.com/lky473736/lky473736.github.io/blob/main/files/cv.pdf
+- Curriculum vitae : https://lky473736.github.io/files/cv.pdf
 - LinkedIn : https://www.linkedin.com/in/gyuyeon-lim-a24016278/?skipRedirect=true
