@@ -1,4 +1,3 @@
 - Homepage : https://lky473736.github.io/
   - CV (English) : https://lky473736.github.io/files/CV_english.pdf
   - CV (Korean) : https://lky473736.github.io/files/CV_korean.pdf
-- Now : Graduate school entrance exam is finally over!
